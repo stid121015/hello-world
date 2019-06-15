@@ -10,3 +10,6 @@ I run
 I study
 
 I code
+
+I add, commit, and push!
+
